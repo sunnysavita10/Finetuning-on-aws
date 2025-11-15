@@ -1,8 +1,0 @@
-transformers
-datasets
-accelerate
-sagemaker 
-boto3
-pandas
-cmake==3.27.0
-pyarrow==16.1.0
